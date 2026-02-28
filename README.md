@@ -1,4 +1,4 @@
-# Convo Analyzer for the obsessive romantic
+# Convo Analyzer For The Obsessive Romantic
 
 Interactive **Streamlit dashboard** to analyze WhatsApp or Signal chat logs.  
 It provides **sentiment analysis, argument detection, response time tracking, and engagement trends**, all visualized in an easy-to-use dashboard.
@@ -36,4 +36,5 @@ Once you run the app locally (or host online), you’ll see:
 ```bash
 git clone https://github.com/your-username/relationship-chat-analyzer.git
 cd relationship-chat-analyzer
+
 
