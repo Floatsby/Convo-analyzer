@@ -38,9 +38,13 @@ Once you run the app locally (or host online), you’ll see:
 - Including Breakups
 - Proposals <3
 
+## How To Access
+- Website: https://convo-analyzer-geif6av4okmvdrcwpvahqw.streamlit.app/
+
 ```bash
 git clone https://github.com/your-username/relationship-chat-analyzer.git
 cd relationship-chat-analyzer
+
 
 
 
