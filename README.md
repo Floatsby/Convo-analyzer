@@ -33,8 +33,14 @@ Once you run the app locally (or host online), you’ll see:
 
 ### 1. Clone the repo
 
+## Future Additions
+- I want to add Potential Trends
+- Including Breakups
+- Proposals <3
+
 ```bash
 git clone https://github.com/your-username/relationship-chat-analyzer.git
 cd relationship-chat-analyzer
+
 
 
